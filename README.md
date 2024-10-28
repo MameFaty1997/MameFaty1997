@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @MameFaty1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Game Design and Level Design
+- 🌱 I’m currently learning Business and organization management and gamification and game-based learning
+- 💞️ I’m looking to collaborate on video game creation 
+- 📫 How to reach me kanefatymame@gmail.com
 
 <!---
 MameFaty1997/MameFaty1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Salut , je suis Mame Faty Kane
-J'ai un BTS en informatique  Industrielle et Réseaux
-Je  suis intéressée par tout ce qui est relié par l'informatique 
-J'apprends actuellement de nouvelles langages comme python et javascript
-Je cherche à collaborer sur tout car je cherche à monter mes compétences
-Vous pouvez me joindre par mail sur mamefaty1997@gmail.com
+- 👋 Bonjour, je suis @MameFaty1997
+- 👀 Je suis intéressé par le Game Design et le Level Design
+- 🌱 Je suis actuellement en train d'apprendre la gestion d'entreprise et d'organisation et la gamification et l'apprentissage par le jeu.
+- 💞️ Je cherche à collaborer à la création d'un jeu vidéo 
+- 📫 Comment me joindre kanefatymame@gmail.com
